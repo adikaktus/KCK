@@ -26,4 +26,5 @@ if(i % 2 == 0) document.write(i + "<br>")
 
 `[Tekst] (hiperłącze)`
 
-`>Cytowanie` >Cytowanie
+`>Cytowanie` 
+>Cytowanie
