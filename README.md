@@ -1,6 +1,8 @@
 # KCK
 Zajęcia z przedmiotu Komunikacja Człowiek Komputer
+
 Podstawowe znaczniki umozliwiające formatowanie
+
 `# nagłowek poziomu 1 #`
 #nagłowek poziomu 1#
 
